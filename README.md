@@ -1,14 +1,19 @@
 ### Hi there 👋, Suyog Prasai
-#### Design and Development
 
 ![Design and Development](https://raw.githubusercontent.com/suyogprasai/suyogprasai/main/banner%20(1).png)
 
 I'm Suyog from Nepal, and I do web development. I am currently intermediate in Web developmennt. I know the programming languages: python and javascript. I sometimes even use WordPress for web development. I also enjoy UI, UX, and design in general. You can check out my Twitter at https://twitter.com/suyog_prasai.
 
+##Skills and Experience
+⚛Javasript
+🐍python
+✨Css
+*️⃣HTML
+💪wordpress
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyogprasai)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Skills: HTML/ CSS/ PYTHON/ JS
+##What I'm currently doing:
 
 - 🔭 I’m currently working on My website 
 - 🌱 I’m currently learning React / JS/ C 
