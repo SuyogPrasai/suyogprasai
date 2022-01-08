@@ -1,6 +1,6 @@
 # Suyog Prasai
 
-![Design and Development](https://raw.githubusercontent.com/suyogprasai/suyogprasai/main/banner%20(1).png)
+![Design and Development](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fback_origin_pic%2F00%2F01%2F36%2F49072589dcb4afa53f46725d8eb839ed.jpg&f=1&nofb=1)
 
 ## About Me
 
