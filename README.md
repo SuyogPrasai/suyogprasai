@@ -30,7 +30,3 @@ Check out my recent posts on my blog:
 - [Understanding TypeScript Basics](https://codematrice.com/typescript-basics)
 - [Getting Started with Flask](https://codematrice.com/getting-started-with-flask)
 - [Building Your First React App](https://codematrice.com/building-react-app)
-
-## Connect with Me
-
-{"twitter":"https://twitter.com/suyog_prasai","facebook":"https://facebook.com/suyog.pras"}
