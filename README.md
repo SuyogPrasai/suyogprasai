@@ -24,18 +24,6 @@ html,css,docker,flask,graphql,react,aws,mongodb,nodejs,git,github,express,flutte
 👥 **Followers:** 0
 ➡️ **Following:** 0
 
-![](https://img.shields.io/badge/Public%20Repos-18-brightgreen)
-![](https://img.shields.io/badge/Followers-0-lightgrey)
-![](https://img.shields.io/badge/Following-0-lightgrey)
-
-## Recent Activity
-
-- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on June 3, 2025: Fixed the error.
-- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on June 2, 2025: Added the new API, it works!
-- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on June 2, 2025: New page created.
-- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on May 27, 2025: Articles page done.
-- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on May 27, 2025: The articles list fully works now.
-
 ## Latest Blog Posts
 
 Check out my recent posts on my blog:
