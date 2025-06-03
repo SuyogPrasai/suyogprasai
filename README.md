@@ -1,32 +1,34 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Suyog</h1>
+<h3 align="center">Trying to do some projects for the better</h3>
 
-I'm Suyog Prasai, a passionate programmer and enthusiastic blogger. I love building innovative solutions and sharing my knowledge with the community. Let's connect and create something amazing together!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogprasai&label=Profile%20views&color=0e75b6&style=flat" alt="suyogprasai" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyogprasai" alt="suyogprasai" /></a> </p>
 
-I'm a dynamic individual who embodies the perfect blend of a passionate programmer and an enthusiastic blogger. With a keen eye for detail, I strive to deliver high-quality work in every project I undertake. I enjoy exploring new technologies and continuously learning to enhance my skills. You can visit my blog at [codematrice.com](https://codematrice.com) for more insights!
+<p align="left"> <a href="https://twitter.com/suyog_prasai" target="blank"><img src="https://img.shields.io/twitter/follow/suyog_prasai?logo=twitter&style=for-the-badge" alt="suyog_prasai" /></a> </p>
 
-## Skills & Technologies
+- 🔭 I’m currently working on [Parewa](https://github.com/SuyogPrasai/parewa)
 
-html,css,docker,flask,graphql,react,aws,mongodb,nodejs,git,github,express,flutter
+- 🌱 I’m currently learning **NextJS, Machine Learning and AI**
 
-## Top Projects
+- 📝 I regularly write articles on [https://codematrice.com/](https://codematrice.com/)
 
-- [Parewa](https://github.com/SuyogPrasai/parewa): A student-driven news outlet system. Built from scratch by the students of BNKS. ⭐️ 1 star
-- [Codematrice](https://github.com/SuyogPrasai/codematrice): Your go-to hub for all things GitHub! 🚀💻 Explore tutorials, connect with fellow developers, and stay up-to-date with the latest trends. ⭐️ 1 star
-- [Edison Raspberry Pi](https://github.com/SuyogPrasai/edisonn_raspberrypi): A project for controlling Raspberry Pi devices. ⭐️ 0 stars
-- [YT Music Downloader](https://github.com/SuyogPrasai/yt_music_downloader): A Python script to install YouTube videos as music (mp3 files). ⭐️ 0 stars
-- [Readme Generator](https://github.com/SuyogPrasai/readme_generator): A tool for generating README files easily. ⭐️ 0 stars
+- 💬 Ask me about **react, js, python**
 
-## GitHub Stats
+- 📫 How to reach me **suyogprasai2008@gmail.com**
 
-📊 **Public Repositories:** 18
-👥 **Followers:** 0
-➡️ **Following:** 0
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suyog_prasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suyog_prasai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suyogprasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyogprasai" height="30" width="40" /></a>
+<a href="https://instagram.com/suyog_prasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyog_prasai" height="30" width="40" /></a>
+</p>
 
-## Latest Blog Posts
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Check out my recent posts on my blog:
-- [Understanding TypeScript Basics](https://codematrice.com/typescript-basics)
-- [Getting Started with Flask](https://codematrice.com/getting-started-with-flask)
-- [Building Your First React App](https://codematrice.com/building-react-app)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyogprasai&show_icons=true&locale=en&layout=compact" alt="suyogprasai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyogprasai&show_icons=true&locale=en" alt="suyogprasai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyogprasai&" alt="suyogprasai" /></p>
