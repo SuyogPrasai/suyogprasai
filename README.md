@@ -26,17 +26,13 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/suyog_prasai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="suyog_prasai" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/suyogprasai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="suyogprasai" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/suyog_prasai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="suyog_prasai" height="30" width="40" />
-  </a>
+<a href="https://twitter.com/suyog_prasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suyog_prasai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suyogprasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyogprasai" height="30" width="40" /></a>
+<a href="https://instagram.com/suyog_prasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyog_prasai" height="30" width="40" /></a>
 </p>
+
 
 ---
 
