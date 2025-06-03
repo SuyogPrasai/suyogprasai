@@ -1,28 +1,48 @@
-## 💫 About Me:
-🔭 I’m currently working on My website<br>🌱 I’m currently learning React / JS / C<br>⭐ I'm looking forward to the bright future<br>📝 Ask me anything about python automation<br>⚡ Fun fact - I'm lazy but smart
+## Hi there! 👋
 
+I'm Suyog Prasai, a passionate programmer and enthusiastic blogger. I love building innovative solutions and sharing my knowledge with the community. Let's connect and create something amazing together!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suyog.pras) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suyog_praai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suyog_prasai) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
+I'm a dynamic individual who embodies the perfect blend of a passionate programmer and an enthusiastic blogger. With a keen eye for detail, I strive to deliver high-quality work in every project I undertake. I enjoy exploring new technologies and continuously learning to enhance my skills. You can visit my blog at [codematrice.com](https://codematrice.com) for more insights!
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=suyogprasai&theme=tokyonight&hide_border=false)<br/>
+## Skills & Technologies
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogprasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+html,css,docker,flask,graphql,react,aws,mongodb,nodejs,git,github,express,flutter
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suyogprasai&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## Top Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- [Parewa](https://github.com/SuyogPrasai/parewa): A student-driven news outlet system. Built from scratch by the students of BNKS. ⭐️ 1 star
+- [Codematrice](https://github.com/SuyogPrasai/codematrice): Your go-to hub for all things GitHub! 🚀💻 Explore tutorials, connect with fellow developers, and stay up-to-date with the latest trends. ⭐️ 1 star
+- [Edison Raspberry Pi](https://github.com/SuyogPrasai/edisonn_raspberrypi): A project for controlling Raspberry Pi devices. ⭐️ 0 stars
+- [YT Music Downloader](https://github.com/SuyogPrasai/yt_music_downloader): A Python script to install YouTube videos as music (mp3 files). ⭐️ 0 stars
+- [Readme Generator](https://github.com/SuyogPrasai/readme_generator): A tool for generating README files easily. ⭐️ 0 stars
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suyogprasai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=suyogprasai&icon=1&color=0)](https://visitcount.itsvg.in)
+📊 **Public Repositories:** 18
+👥 **Followers:** 0
+➡️ **Following:** 0
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://img.shields.io/badge/Public%20Repos-18-brightgreen)
+![](https://img.shields.io/badge/Followers-0-lightgrey)
+![](https://img.shields.io/badge/Following-0-lightgrey)
+
+## Recent Activity
+
+- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on June 3, 2025: Fixed the error.
+- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on June 2, 2025: Added the new API, it works!
+- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on June 2, 2025: New page created.
+- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on May 27, 2025: Articles page done.
+- Pushed to [Parewa](https://github.com/SuyogPrasai/parewa) on May 27, 2025: The articles list fully works now.
+
+## Latest Blog Posts
+
+Check out my recent posts on my blog:
+- [Understanding TypeScript Basics](https://codematrice.com/typescript-basics)
+- [Getting Started with Flask](https://codematrice.com/getting-started-with-flask)
+- [Building Your First React App](https://codematrice.com/building-react-app)
+
+## Connect with Me
+
+{"twitter":"https://twitter.com/suyog_prasai","facebook":"https://facebook.com/suyog.pras"}
