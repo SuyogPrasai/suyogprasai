@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: suyogprasai](https://img.shields.io/badge/-suyogprasai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyogprasai/)](https://www.linkedin.com/in/suyogprasai/)
-[![GitHub SuyogPrasai](https://img.shields.io/github/followers/suyogprasai?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub SuyogPrasai](https://img.shields.io/github/followers/suyogprasai?label=follow&style=social)](https://github.com/suyogprasai)
 
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xieDVxMjlxeXV3bDA3ZnVncWZ5N2RnOTVtOHZqa3JtaXR5MnB3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26BRxthqtPxuu8dtC/giphy.gif" width="50" > A little more about me...  
