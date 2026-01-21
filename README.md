@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Suyog Prasai! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGIza3M5OTdxbnVqd21vb2c0cDV4eGdwdDFvNjlkeHU1cTF0cnB3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE4cTE0a3I1M2NiZHJ2cXBnbGs0MXJ0NjMzYWVicG42YzVhNnpxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0nqJvEtwV5jWayrU99/giphy.gif" width="230">
+<!-- <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTE4cTE0a3I1M2NiZHJ2cXBnbGs0MXJ0NjMzYWVicG42YzVhNnpxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0nqJvEtwV5jWayrU99/giphy.gif" width="230"> -->
 <p><em>Self Taught Programmer <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhsdXpiaTBnanA5ZGMzaXZveXRrMjNjcTM2ODd5OWNxMWN5bXh4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/huOkLRT5FjcMN6Wzde/giphy.gif" width="30"></br>Currently Working as a  <a href="">Freelancer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
