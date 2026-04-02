@@ -25,6 +25,5 @@ const suyog = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I hope to collaborate on more projects and meet new people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
